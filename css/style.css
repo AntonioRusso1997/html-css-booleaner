@@ -72,3 +72,29 @@ thead {
     text-align: left;
 }
 
+footer h3 {
+    color: grey;
+    font-size: 13px;
+}
+
+.img1-footer {
+    background-image: url(monitor.jpg);
+    height: 100px;
+    width: 150px;
+    background-size: 100%;
+    color: white;
+    padding-left: 5px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+}
+
+.img2-footer {
+    background-image: url(graph.jpg);
+    height: 100px;
+    width: 150px;
+    background-size: 100%;
+    color: white;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
