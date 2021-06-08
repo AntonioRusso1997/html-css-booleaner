@@ -11,3 +11,25 @@
     margin-top: 40px;
     margin-left: 10px;
 }
+
+main {
+    width: 50%;
+}
+
+.Titolo {
+    margin-bottom: 0;
+}
+
+.sottotitolo {
+    margin: 0;
+    color: grey ;
+}
+
+h3 span {
+    color: #4EA0FF;
+}
+
+.data {
+    color: grey;
+    margin-top: 0;
+}
