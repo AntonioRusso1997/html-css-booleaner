@@ -1,0 +1,13 @@
+.intestazione {
+    height: 100px;
+    background-color: #4EA0FF ;
+    background-image: url(pattern.png) ;
+    background-size: 25%;
+    background-repeat: repeat;
+    }
+
+.intestazione img {
+    height: 50%;
+    margin-top: 40px;
+    margin-left: 10px;
+}
