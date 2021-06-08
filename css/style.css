@@ -33,3 +33,13 @@ h3 span {
     color: grey;
     margin-top: 0;
 }
+
+.notizia img {
+    width: 49%;
+    height: 300px;
+}
+
+.desc-foto p {
+    margin: 0;
+    font-size: 11px;
+}
