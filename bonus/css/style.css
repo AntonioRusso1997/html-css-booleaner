@@ -1,0 +1,148 @@
+body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 50%, rgba(0,212,255,1) 100%);
+}
+
+.intestazione {
+    height: 100px;    
+    background-color: tomato;
+    background-image: url(pattern.png) ;
+    background-size: 25%;
+    background-repeat: repeat;
+    border-radius: 40px;
+    }
+
+.intestazione img {
+    height: 90%;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+main {
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 40px;
+    background: rgb(216,255,4);
+    background: radial-gradient(circle, rgba(216,255,4,1) 0%, rgba(255,0,35,1) 100%);
+}
+
+.Titolo {
+    margin-bottom: 0;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.sottotitolo {
+    margin: 0;
+    color: rgb(255, 255, 255) ;
+    text-align: end;
+}
+
+h3 span {
+    color: #71ff4e;
+}
+
+.data {
+    color: rgb(255, 255, 255);
+    margin-top: 0;
+    text-align: end;
+}
+
+.notizia img {
+    width: 48%;
+    height: 300px;
+    border-style: dashed ;
+    border-color: white;
+    border-radius: 20px;
+}
+
+.desc-foto p {
+    margin: 0;
+    font-size: 11px;    
+}
+
+.testo-notizia {
+    color: blue;
+}
+.testo-notizia span {
+    background-color: green;
+    color: white;
+}
+
+ul {
+    color: blue;
+}
+
+table {
+    border: none;
+    width: 100%;
+    color: white;
+}
+thead {
+    background-color: green;
+}
+
+.riga-verde {
+    background-color: #009e22;
+}
+
+.riga-verde-chiaro {
+    background-color: rgb(106, 201, 106);
+}
+}
+.th1, .th2 {
+    width: 25%;
+    margin-left: 0;
+    text-align: left;
+
+}
+
+.th3 {
+    width: 50%;
+    text-align: left;
+}
+
+footer {
+    background: radial-gradient(circle, rgba(216,255,4,1) 0%, rgba(255,0,35,1) 100%);
+    border-radius: 40px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 10px;
+}
+footer h3 {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+.img1-footer {
+    background-image: url(monitor.jpg);
+    height: 200px;
+    width: 300px;
+    background-size: 100%;
+    color: white;
+    padding-left: 5px;
+    padding-top: 5px;
+    margin: 0 auto;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.img2-footer {
+    background-image: url(graph.jpg);
+    height: 200px;
+    width: 300px;
+    background-size: 100%;
+    color: white;
+    padding-left: 5px;
+    padding-top: 5px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
