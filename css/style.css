@@ -43,3 +43,7 @@ h3 span {
     margin: 0;
     font-size: 11px;
 }
+
+.testo-notizia span {
+    background-color: yellow;
+}
