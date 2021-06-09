@@ -1,7 +1,7 @@
 .intestazione {
     height: 100px;
     background-color: #4EA0FF ;
-    background-image: url(pattern.png) ;
+    background-image: url(../img/pattern.png) ;
     background-size: 25%;
     background-repeat: repeat;
     }
@@ -78,7 +78,7 @@ footer h3 {
 }
 
 .img1-footer {
-    background-image: url(monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     height: 100px;
     width: 150px;
     background-size: 100%;
@@ -89,7 +89,7 @@ footer h3 {
 }
 
 .img2-footer {
-    background-image: url(graph.jpg);
+    background-image: url(../img/graph.jpg);
     height: 100px;
     width: 150px;
     background-size: 100%;

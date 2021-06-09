@@ -9,7 +9,7 @@ body {
 .intestazione {
     height: 100px;    
     background-color: tomato;
-    background-image: url(pattern.png) ;
+    background-image: url(../img/pattern.png) ;
     background-size: 25%;
     background-repeat: repeat;
     border-radius: 40px;
@@ -120,7 +120,7 @@ footer h3 {
 }
 
 .img1-footer {
-    background-image: url(monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     height: 200px;
     width: 300px;
     background-size: 100%;
@@ -133,7 +133,7 @@ footer h3 {
 }
 
 .img2-footer {
-    background-image: url(graph.jpg);
+    background-image: url(../img/graph.jpg);
     height: 200px;
     width: 300px;
     background-size: 100%;
